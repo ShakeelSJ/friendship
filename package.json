@@ -1,0 +1,14 @@
+{
+  "name": "friendship",
+  "version": "1.0.0",
+  "description": "social media app only for friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
